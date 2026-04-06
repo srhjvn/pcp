@@ -1,0 +1,96 @@
+name: PCP Maintenance Workflow
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - "**.md"
+      - ".github/workflows/blank.yml"
+  schedule:
+    # Runs every Monday at 14:00 UTC
+    - cron: "0 14 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  pcp-review:
+    name: Portfolio Review and Guidance
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Identify changed PCP files
+        id: changed
+        run: |
+          echo "Changed markdown files in this run:"
+          git diff --name-only HEAD~1 HEAD 2>/dev/null | grep '\.md$' || echo "No markdown file changes detected."
+
+      - name: Validate metadata blocks
+        run: |
+          echo "Checking core files for required metadata..."
+          files=(
+            "Identity.md"
+            "RolesandResponsibilities.md"
+            "GoalsAndPriorities.md"
+            "CurrentProjects.md"
+            "TeamAndRelationships.md"
+            "ToolsAndSystems.md"
+            "CommunicationStyle.md"
+            "PreferencesAndConstraints.md"
+            "DomainKnowledge.md"
+            "DecisionLog.md"
+            "README.md"
+          )
+
+          missing=0
+
+          for file in "${files[@]}"; do
+            if [ ! -f "$file" ]; then
+              echo "::warning file=$file::File is missing from repository."
+              missing=1
+              continue
+            fi
+
+            grep -q '^# ' "$file" || { echo "::warning file=$file::Missing top-level title heading."; missing=1; }
+            grep -q '^\*\*Status:\*\*' "$file" || { echo "::warning file=$file::Missing Status metadata."; missing=1; }
+            grep -q '^\*\*Last Updated:\*\*' "$file" || { echo "::warning file=$file::Missing Last Updated metadata."; missing=1; }
+            grep -q '^\*\*Purpose:\*\*' "$file" || { echo "::warning file=$file::Missing Purpose metadata."; missing=1; }
+          done
+
+          if [ "$missing" -ne 0 ]; then
+            echo "One or more metadata checks produced warnings."
+          else
+            echo "All core files passed metadata checks."
+          fi
+
+      - name: Review lifecycle guidance
+        run: |
+          echo "PCP lifecycle reminder:"
+          echo "1. Identify what changed"
+          echo "2. Interview for missing context"
+          echo "3. Draft updates in the relevant file"
+          echo "4. Review for clarity and consistency"
+          echo "5. Store approved changes in the repo"
+          echo "6. Refine over time as context evolves"
+
+      - name: Review cadence prompts
+        run: |
+          echo "Suggested maintenance prompts:"
+          echo "- Weekly: Review CurrentProjects.md"
+          echo "- Monthly: Review GoalsAndPriorities.md and DecisionLog.md"
+          echo "- Quarterly: Review Identity.md, RolesandResponsibilities.md, and DomainKnowledge.md"
+
+      - name: Decision log reminder
+        run: |
+          echo "If a meaningful decision was made, record it in DecisionLog.md:"
+          echo "- direction changes"
+          echo "- opportunity choices"
+          echo "- service offering revisions"
+          echo "- major priority shifts"
+
+      - name: Finish
+        run: echo "PCP maintenance workflow completed."
