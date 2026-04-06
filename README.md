@@ -30,19 +30,20 @@ The goals of this repository are to:
 - reduce friction in communication, drafting, and decision-making
 - support work that is more coherent, portable, and self-defined over time
 
-## Core Files
-The repository currently includes or is intended to include the following core files:
+## Core File Links
 
-- `Identity.md`
-- `RolesandResponsibilities.md`
-- `GoalsAndPriorities.md`
-- `CurrentProjects.md`
-- `TeamAndRelationships.md`
-- `ToolsAndSystems.md`
-- `CommunicationStyle.md`
-- `PreferencesAndConstraints.md`
-- `DomainKnowledge.md`
-- `DecisionLog.md`
+Use the links below to move directly into the core portfolio files.
+
+- [Identity](./Identity.md)
+- [Roles and Responsibilities](./RolesandResponsibilities.md)
+- [Goals and Priorities](./GoalsAndPriorities.md)
+- [Current Projects](./CurrentProjects.md)
+- [Team and Relationships](./TeamAndRelationships.md)
+- [Tools and Systems](./ToolsAndSystems.md)
+- [Communication Style](./CommunicationStyle.md)
+- [Preferences and Constraints](./PreferencesAndConstraints.md)
+- [Domain Knowledge](./DomainKnowledge.md)
+- [Decision Log](./DecisionLog.md)
 
 ## File Purpose Summary
 
