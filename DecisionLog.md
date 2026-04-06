@@ -1,7 +1,13 @@
 # Decision Log
 
 **Status:** Active  
-**Last Updated:** 2026-04-06  
+
+**Last Updated:** 2026-04-06 
+
+**Related_Files:** [README.md, CurrentProjects.md, GoalsAndPriorities.md, RolesandResponsibilities.md, PreferencesAndConstraints.md]
+
+**review_Date:** 2026-07-06
+
 **Purpose:** Capture meaningful decisions in a structured, reusable way, including rationale, tradeoffs, constraints, and revisit triggers.
 
 ## Purpose
