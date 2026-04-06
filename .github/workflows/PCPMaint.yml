@@ -6,7 +6,7 @@ on:
     branches: ["main"]
     paths:
       - "**.md"
-      - ".github/workflows/blank.yml"
+      - ".github/workflows/PCPMaint.yml"
   schedule:
     # Runs every Monday at 14:00 UTC
     - cron: "0 14 * * 1"
