@@ -4,7 +4,26 @@
 
 **Last Updated:** 2026-04-06 
 
-**Related_Files:** [README.md, Identity.md, RolesandResponsibilities.md, GoalsAndPriorities.md, CurrentProjects.md, TeamAndRelationships.md, ToolsAndSystems.md, CommunicationStyle.md, PreferencesAndConstraints.md, DomainKnowledge.md, DecisionLog.md, ServiceOfferings.md, ServicesSummary.md] 
+**Related_Files:** 
+[Identity](./Identity.md) Captures durable identity-level context, including professional identity, strengths, values, current season, and future direction.
+
+[Roles and Responsibilities](./RolesandResponsibilities.md) Documents recurring role patterns, actual operating responsibilities, and the distinction between formal title and real contribution.
+
+[Goals and Priorities](./GoalsAndPriorities.md) Defines what matters most right now, what is being optimized for, and how progress is understood in the current season.
+
+[Current Projects](./CurrentProjects.md) Tracks active workstreams, current focus areas, and how ongoing projects relate to one another.
+
+[Team and Relationships](./TeamAndRelationships.md) Documents typical working relationships, collaboration patterns, stakeholder dynamics, and relational friction points.
+
+[Tools and Systems](./ToolsAndSystems.md) Captures the tools, platforms, system environments, and working artifacts that shape day-to-day operating reality.
+
+[Communication Style](./CommunicationStyle.md) Defines communication preferences, drafting style, collaboration tone, and what makes communication more or less effective.
+
+[Preferences and Constraints](./PreferencesAndConstraints.md) Makes practical operating preferences explicit, including always-do guidance, avoid guidance, friction points, and active constraints.
+
+[Domain Knowledge](./DomainKnowledge.md) Captures applied subject-matter knowledge, especially where operations, systems, workflows, and business reality intersect.
+
+[Decision Log](./DecisionLog.md) Provides a structured record of meaningful decisions, including rationale, tradeoffs, constraints, and revisit triggers.
 
 **review_Date:** 2026-07-06
 
@@ -35,23 +54,6 @@ The goals of this repository are to:
 - make context easier to carry across platforms
 - reduce friction in communication, drafting, and decision-making
 - support work that is more coherent, portable, and self-defined over time
-
-
-## Core File Links
-The sections below are intended to make the repository easier to navigate and use in practice, not just understand in theory.
-
-Use the links below to move directly into the core portfolio files.
-
-- [Identity](./Identity.md)
-- [Roles and Responsibilities](./RolesandResponsibilities.md)
-- [Goals and Priorities](./GoalsAndPriorities.md)
-- [Current Projects](./CurrentProjects.md)
-- [Team and Relationships](./TeamAndRelationships.md)
-- [Tools and Systems](./ToolsAndSystems.md)
-- [Communication Style](./CommunicationStyle.md)
-- [Preferences and Constraints](./PreferencesAndConstraints.md)
-- [Domain Knowledge](./DomainKnowledge.md)
-- [Decision Log](./DecisionLog.md)
 
 ## Common Use Paths
 
@@ -104,38 +106,6 @@ Start with:
 - [Decision Log](./DecisionLog.md)
 
 Then update any other file where the change belongs based on file purpose and scope.
-
-## File Purpose Summary
-
-### `Identity.md`
-Captures durable identity-level context, including professional identity, strengths, values, current season, and future direction.
-
-### `RolesandResponsibilities.md`
-Documents recurring role patterns, actual operating responsibilities, and the distinction between formal title and real contribution.
-
-### `GoalsAndPriorities.md`
-Defines what matters most right now, what is being optimized for, and how progress is understood in the current season.
-
-### `CurrentProjects.md`
-Tracks active workstreams, current focus areas, and how ongoing projects relate to one another.
-
-### `TeamAndRelationships.md`
-Documents typical working relationships, collaboration patterns, stakeholder dynamics, and relational friction points.
-
-### `ToolsAndSystems.md`
-Captures the tools, platforms, system environments, and working artifacts that shape day-to-day operating reality.
-
-### `CommunicationStyle.md`
-Defines communication preferences, drafting style, collaboration tone, and what makes communication more or less effective.
-
-### `PreferencesAndConstraints.md`
-Makes practical operating preferences explicit, including always-do guidance, avoid guidance, friction points, and active constraints.
-
-### `DomainKnowledge.md`
-Captures applied subject-matter knowledge, especially where operations, systems, workflows, and business reality intersect.
-
-### `DecisionLog.md`
-Provides a structured record of meaningful decisions, including rationale, tradeoffs, constraints, and revisit triggers.
 
 ## File Status
 Use this section to track the maturity of each file.
