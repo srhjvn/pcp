@@ -180,7 +180,6 @@ Examples for future supporting files:
 Use this lightweight template when creating new files in the repository.
 
 ```md
-
 # File Title
 
 **Status:** Active
@@ -204,6 +203,96 @@ Current emphasis is on:
 - using the decision log for meaningful changes
 - applying the portfolio to outward-facing assets
 - extending the repository only where new files create practical value
+
+**## Single-Source-of-Truth Rules 
+**
+The Personal Context Portfolio uses a modular documentation structure. Each core file has a defined primary purpose and should serve as the single source of truth for its subject area. Information should be maintained in its designated home first, with other files pointing back to that source rather than recreating it.
+
+1. Primary ownership by core file
+
+README.md
+Owns repository orientation, file purpose summary, usage guidance, and navigation into the portfolio.
+
+Identity.md
+Owns stable identity-level information, core professional profile, and durable personal or business positioning statements.
+
+RolesandResponsibilities.md
+Owns role definitions, responsibility boundaries, service roles, and operating responsibilities.
+
+GoalsAndPriorities.md
+Owns active goals, priority structure, sequencing focus, and current strategic emphasis.
+
+CurrentProjects.md
+Owns active project tracking, project status, and project-specific next steps.
+
+TeamAndRelationships.md
+Owns key people, relationship context, stakeholder roles, and collaboration notes.
+
+ToolsAndSystems.md
+Owns systems, platforms, repositories, workflows, and tool-specific operating notes.
+
+CommunicationStyle.md
+Owns communication preferences, tone guidance, writing preferences, and interaction norms.
+
+PreferencesAndConstraints.md
+Owns standing rules, boundaries, preferences, constraints, and “always / never” guidance.
+
+DomainKnowledge.md
+Owns reusable subject-matter knowledge, industry context, terminology, and reference material.
+
+DecisionLog.md
+Owns meaningful decisions made, rationale, date/context, and implications of those decisions.
+
+2. Duplication rules
+
+Information should appear in full in one primary file only.
+
+Other files may contain:
+- a short summary
+- a brief contextual mention
+- a pointer to the source file
+
+Other files should not contain:
+- competing versions of the same guidance
+- copied blocks that are likely to drift over time
+- repeated lists maintained in more than one place unless explicitly marked as a snapshot
+
+When overlap is unavoidable:
+- keep the authoritative version in the primary file
+- keep the duplicate version short
+- label it as a reference or summary
+- update the source file first
+
+3. Cross-reference guidance
+
+When one file depends on information owned elsewhere, use a cross-reference instead of restating the full content.
+
+Preferred pattern:
+- brief context here
+- authoritative detail in the owning file
+
+Examples:
+CurrentProjects.md may reference priorities from GoalsAndPriorities.md
+README.md may link to all core files but should not restate their full contents
+RolesandResponsibilities.md may reference tools in ToolsAndSystems.md
+CommunicationStyle.md may align with constraints in PreferencesAndConstraints.md without duplicating them
+project-specific decisions may be noted in CurrentProjects.md, but the formal record belongs in DecisionLog.md
+
+4. Practical maintenance rule
+
+Before adding new content, ask:
+Which file owns this subject?
+- Is this net-new information, or does it already exist elsewhere?
+- Should this be added as source content, a summary, or a cross-reference?
+- If the content fits an existing file, update that file first.
+- Create a new file only when the subject cannot be cleanly maintained within the current structure.
+
+5. Conflict resolution rule
+
+If two files appear to conflict:
+- treat the file with primary ownership as authoritative
+- update or remove the conflicting duplicate
+- log the clarification in DecisionLog.md if the change affects structure, governance, or operating practice
 
 ## Notes
 Anything important that does not fit neatly in the sections above.
