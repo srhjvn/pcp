@@ -1,0 +1,130 @@
+# Services Summary
+
+**Status:** Drafting  
+**Last Updated:** 2026-04-06  
+**Purpose:** Provide a concise outward-facing summary of core service offerings, ideal use cases, and working style.
+
+## Overview
+I help organizations make messy work more usable.
+
+My work sits at the intersection of business needs, operational reality, process clarity, and system behavior. I support teams that need help turning ambiguity into structure, clarifying requirements, improving workflows, strengthening documentation, and helping stakeholders align around what is actually needed.
+
+The emphasis is practical: clearer thinking, better structure, more usable documentation, and more workable next steps.
+
+## Core Services
+
+### 1. Business Analysis and Requirements Support
+I help turn loosely defined requests, initiatives, or backlog items into structured, usable requirements.
+
+Typical support includes:
+- requirements clarification
+- current-state and future-state documentation
+- user stories and acceptance criteria
+- backlog refinement support
+- business-to-technical translation
+- implementation-ready documentation
+
+**Best fit:** when the need is real, but the ask is still messy, scattered, or not yet ready for efficient execution.
+
+---
+
+### 2. Process and Workflow Improvement
+I help teams identify where workflows are creating friction and translate that into clearer improvement direction.
+
+Typical support includes:
+- workflow assessment
+- process gap analysis
+- handoff and dependency review
+- friction-point identification
+- future-state recommendations
+- process documentation cleanup and restructuring
+
+**Best fit:** when a workflow feels heavier, messier, or less effective than it should, but the root issue still needs to be clarified.
+
+---
+
+### 3. Systems and Operations Translation
+I help bridge the gap between business need, operational reality, and system behavior so teams can make better decisions and move forward more clearly.
+
+Typical support includes:
+- business-to-technical translation
+- operational framing for system enhancements
+- decision support summaries
+- structured analysis notes
+- stakeholder briefing materials
+- implementation context documentation
+
+**Best fit:** when multiple stakeholders are involved and the work is slowed by different assumptions, language, or priorities.
+
+---
+
+### 4. Documentation and Communication Infrastructure
+I create structured, reusable documentation that improves continuity, reduces rework, and supports future planning and execution.
+
+Typical support includes:
+- structured internal documentation
+- reusable reference files
+- playbook-style materials
+- project or process context summaries
+- communication templates
+- modular documentation systems
+
+**Best fit:** when important context is scattered, repeatedly recreated, or too weakly documented to support efficient work.
+
+## How I Work
+My style is thoughtful, structured, and practical.
+
+I work best where there is:
+- real complexity
+- a need for clarity
+- process or workflow friction
+- scattered context
+- stakeholder misalignment
+- pressure to move forward without enough usable structure
+
+I tend to add value by:
+- turning ambiguity into structure
+- identifying what matters versus what is noise
+- translating complexity into usable language
+- reducing misunderstanding through documentation and framing
+- helping teams move toward clearer, more workable next steps
+
+## Engagement Shapes
+Support can be structured in forms such as:
+- short clarity sprints
+- defined-scope assessments
+- documentation builds
+- short-term advisory support
+
+The strongest starting point is usually a clearly bounded engagement with visible outputs.
+
+## Ideal Environment
+My work is strongest in environments where:
+- operations, systems, and people all need to connect
+- documentation quality affects execution quality
+- process reality matters more than presentation
+- teams need a calmer, clearer path through complexity
+- clarity is needed before scaling, implementation, or change
+
+## Working Approach
+I aim to keep the work:
+- clear
+- grounded
+- well-structured
+- realistic in scope
+- useful for action
+
+I prefer practical value over inflated consulting language. The goal is not to create more noise. The goal is to make the work more coherent, more usable, and easier to move forward.
+
+## Best Next Step
+A good starting point is usually a focused conversation about:
+- what is currently unclear
+- where friction is showing up
+- what kind of output would be most useful
+- whether the need is best approached as a short package or a broader support engagement
+
+## Notes
+This summary is intended as a working outward-facing overview. It should be refined over time based on real conversations, offer development, and market feedback.
+
+## Update Guidance
+Update this file when core offers, engagement shapes, positioning language, or ideal-fit patterns materially change.
