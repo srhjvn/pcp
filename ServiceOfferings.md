@@ -625,3 +625,186 @@ This supports practical traction while preserving enough flexibility to learn fr
 ## Notes
 Initial pricing logic should remain a working internal framework until clearer market feedback develops. The goal is not to finalize a perfect pricing model in advance. The goal is to support confident, structured, and realistic offer conversations.
 
+
+## Engagement Boundaries and Out-of-Scope Guidance
+
+### Purpose
+This section exists to keep service offerings clear, protect delivery quality, and reduce the risk of vague or expanding expectations. Strong boundaries do not make the work less helpful. They make the work more usable, more credible, and more sustainable.
+
+The goal is to define what each offer is meant to do, what it is not meant to do, and when a separate scope or follow-on engagement is the better fit.
+
+## Boundary Principles
+Engagement boundaries should generally:
+- protect clarity of scope
+- keep deliverables realistic
+- reduce avoidable rework
+- make pricing easier to defend
+- help clients understand what they are buying
+- prevent useful support from turning into open-ended unpaid labor
+
+## General In-Scope Pattern
+Most offers in this file are designed to include:
+- clarification of the defined problem area
+- structured analysis of the selected topic, workflow, or request
+- practical documentation or recommendations tied to the agreed scope
+- limited review and refinement within the engagement boundaries
+- visible outputs the client can use for next steps
+
+## General Out-of-Scope Pattern
+Unless explicitly included, most offers should not automatically include:
+- unlimited revisions
+- indefinite advisory access
+- full project management
+- implementation ownership
+- technical build or development work
+- legal, compliance, or financial sign-off
+- extensive stakeholder coordination beyond the agreed scope
+- deep change-management support
+- broad strategic work far beyond the original problem definition
+
+## Package Boundary Guidance
+
+### Requirements Clarity Sprint
+#### Intended Scope
+This offer is meant to clarify a specific request, initiative, backlog area, or documentation need and turn it into a structured, usable output.
+
+#### Typically In Scope
+- problem clarification
+- focused review of provided materials
+- structured requirements draft
+- user stories or acceptance criteria
+- identification of open questions
+- recommended next steps
+
+#### Typically Out of Scope
+- full implementation support
+- extensive redesign of adjacent workflows
+- large-scale stakeholder facilitation across multiple departments
+- repeated rounds of expanding scope
+- technical solution design beyond business-facing framing
+
+#### Boundary Note
+This package should stay tightly tied to one defined area of ambiguity. If multiple unrelated issues emerge, those should become separate follow-on work.
+
+---
+
+### Workflow Friction Assessment
+#### Intended Scope
+This offer is meant to assess a defined workflow, process area, or handoff pattern and identify practical friction points and improvement opportunities.
+
+#### Typically In Scope
+- workflow review
+- process gap identification
+- dependency and handoff observations
+- friction-point summary
+- practical future-state recommendations
+- next-step options
+
+#### Typically Out of Scope
+- end-to-end operational transformation
+- full implementation ownership
+- org redesign
+- detailed technical configuration changes
+- ongoing facilitation after the assessment concludes
+
+#### Boundary Note
+This package is designed to diagnose and recommend, not to absorb every downstream action. Implementation support should be scoped separately.
+
+---
+
+### Documentation Infrastructure Build
+#### Intended Scope
+This offer is meant to create structured, reusable documentation that improves continuity, reduces rework, and supports future use.
+
+#### Typically In Scope
+- consolidation of agreed source material
+- structured documentation design
+- creation of reusable reference files
+- internal playbook-style documents
+- maintenance notes for future use
+
+#### Typically Out of Scope
+- undocumented fact-finding across an unlimited range of topics
+- indefinite document maintenance
+- full knowledge management ownership
+- major content strategy work unrelated to the agreed documentation set
+- large-scale change rollout tied to the documents
+
+#### Boundary Note
+This package works best when the documentation target is defined clearly. If the client needs ongoing maintenance, that should be positioned as separate support.
+
+---
+
+### Short-Term Advisory Support
+#### Intended Scope
+This offer is meant to provide bounded advisory support across a defined set of related needs over a limited timeframe.
+
+#### Typically In Scope
+- recurring review sessions
+- issue clarification
+- structured notes and recommendations
+- prioritization support
+- documentation refinement
+- decision support across agreed focus areas
+
+#### Typically Out of Scope
+- unlimited on-call availability
+- open-ended project ownership
+- full-time embedded support without revised terms
+- support for unrelated workstreams outside the defined engagement focus
+- unbounded communication volume without guardrails
+
+#### Boundary Note
+This package should always include a defined timeframe, focus area, and expected support rhythm. Flexibility is part of the offer, but vagueness should not be.
+
+## Revision Boundaries
+To keep work sustainable and predictable:
+- define the number of review cycles where appropriate
+- distinguish refinement from re-scoping
+- treat new problem areas as new scope
+- note when additional stakeholder input materially changes the original ask
+- reserve the right to revise timing or pricing if the engagement expands meaningfully
+
+## Client Input Expectations
+Strong boundaries also depend on client participation.
+
+Clients should generally be expected to:
+- provide relevant source material within a reasonable timeframe
+- identify key stakeholders where needed
+- review drafts or findings within the agreed rhythm
+- clarify priorities when tradeoffs are required
+- raise major concerns before the work is treated as final
+
+Delays or missing input may affect timing, completeness, or scope stability.
+
+## Signals That Scope Is Expanding
+Common signs that a project may be moving beyond its original shape include:
+- new stakeholders being added late
+- additional workflows or systems being introduced midstream
+- requests shifting from clarification to implementation ownership
+- repeated rounds of new requirements after draft delivery
+- unrelated business problems being folded into the same engagement
+- the client treating a defined package like open-ended support
+
+When these signals appear, it is usually better to pause and re-scope than to absorb the expansion informally.
+
+## Re-Scoping Guidance
+When scope expands, the preferred response is:
+1. name the shift clearly
+2. separate original scope from new requests
+3. confirm what remains in the current engagement
+4. define follow-on options if useful
+5. adjust timeline and pricing where appropriate
+
+This helps protect trust while keeping the work realistic.
+
+## Positioning Notes
+Boundaries should be framed as part of good service, not resistance. Clear scope protects quality, makes delivery easier to trust, and improves the usefulness of the final output.
+
+A good boundary statement sounds like:
+- “That can absolutely be supported, but it extends beyond the current scope.”
+- “What we have here is enough for the current engagement; the next layer would be a separate phase.”
+- “I want to keep this package clean and useful, so I’d treat that as a follow-on item.”
+
+## Notes
+The point of boundaries is not to make the work rigid. The point is to keep the work coherent, deliverable, and fair to both sides. Strong offers stay useful because they are well-bounded, not because they try to absorb everything.
