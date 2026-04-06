@@ -125,6 +125,7 @@ Examples for future supporting files:
 Use this lightweight template when creating new files in the repository.
 
 ```md
+
 # File Title
 
 **Status:** Active
@@ -137,11 +138,9 @@ High-level summary of the topic or context this file captures.
 ## Core Sections
 Use the sections that best fit the file.
 
-## Notes
-Anything important that does not fit neatly in the sections above.
-
 ## Update Guidance
 What kinds of changes should trigger an update to this file.
+
 ## Current Implementation Status
 The repository foundation is established and the core starter files are in place. The portfolio is now in the transition from initial drafting to active use, refinement, and application.
 
@@ -150,5 +149,8 @@ Current emphasis is on:
 - using the decision log for meaningful changes
 - applying the portfolio to outward-facing assets
 - extending the repository only where new files create practical value
+
+## Notes
+Anything important that does not fit neatly in the sections above.
 
 
