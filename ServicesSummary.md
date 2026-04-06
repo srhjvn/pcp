@@ -261,3 +261,55 @@ Support can be structured as:
 ### Starting point
 The best place to start is usually a short conversation to clarify what is not working, what is still unclear, and what kind of support would be most useful first.
 
+
+**##general outreach**
+Hello [Name],
+
+I do business analysis, workflow clarification, and documentation support for teams that need help turning messy work into clearer structure.
+
+My work is usually a fit when a need is real but the ask is still unclear, stakeholders are not fully aligned, or important context is too scattered to support efficient execution.
+
+I’m currently building a small set of clearly scoped service offerings around requirements support, workflow improvement, systems-and-operations translation, and documentation infrastructure. If that overlaps with anything your team is dealing with, I’d be glad to connect.
+
+
+**##warm networking outreach**
+Hello [Name],
+
+I wanted to reach out because I’m shaping a focused services offering around business analysis, workflow improvement, and structured documentation support.
+
+A lot of my work sits in the space between business need, operational reality, and workable execution — especially where requirements are messy, workflows are creating friction, or teams need clearer structure before moving forward.
+
+If someone in your network is dealing with that kind of challenge, I’d appreciate being kept in mind.
+
+**##Outreach for operations/process pain**
+Hello [Name],
+
+I help organizations clarify process and workflow issues when things are starting to feel heavier, messier, or less effective than they should.
+
+That usually includes identifying friction points, surfacing dependency or handoff issues, and turning operational pain into clearer improvement direction and usable next steps.
+
+If that is relevant to your team or someone you know, I’d be glad to have a conversation.
+
+**##Outreach for requirements/documentation pain**
+Hello [Name],
+
+I support teams that need help turning loosely defined requests into structured requirements and usable documentation.
+
+This tends to be most helpful when business needs are real, but the request is still scattered across conversations, assumptions, or partial notes and needs clearer structure before execution.
+
+If that kind of support would be useful, I’d be glad to connect.
+
+**##Short LinkedIn Connection note**
+Hi [Name] — I do business analysis, workflow clarification, and structured documentation support for teams that need clearer requirements and more usable process context. Thought it made sense to connect.
+
+**##Short follow-up on connection acceptance**
+Thanks for connecting. My work is mostly focused on helping teams make messy work more usable — clarifying requirements, improving workflows, and building documentation that supports execution. Happy to stay in touch.
+
+
+
+
+
+
+
+
+
