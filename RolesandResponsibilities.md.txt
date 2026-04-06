@@ -1,0 +1,72 @@
+# Roles and Responsibilities
+
+**Status:** Active  
+**Last Updated:** 2026-04-06  
+**Purpose:** Document recurring role patterns, core responsibilities, and the distinction between formal title and actual function.
+
+## Overview
+Across roles, I am typically responsible for helping work move from ambiguity to execution. Even when my formal title is narrower, my actual function often includes clarification, translation, coordination, process improvement, and practical decision support. I tend to operate in the space between business need, system behavior, stakeholder expectation, and workable delivery.
+
+## Core Role Pattern
+My recurring role pattern is to serve as a bridge between people, process, and systems. I help define what is needed, identify what is getting in the way, organize the work into clearer structure, and support movement toward a workable outcome.
+
+In practice, this often means I am acting as some blend of:
+- business analyst
+- systems analyst
+- process improvement lead
+- translator between technical and non-technical stakeholders
+- operational clarifier
+- project-manager-adjacent coordinator
+- practical problem-solver
+
+## Recurring Responsibilities
+Across roles, I am commonly responsible for:
+- translating requests into structured requirements
+- identifying process gaps, dependency risks, and operational friction
+- supporting prioritization and decision-making
+- connecting business goals to technical execution
+- helping stakeholders align around what is actually needed
+- bringing order to information that is incomplete, messy, or spread across different people
+
+## Strategic Contributions
+My work often contributes at a level beyond task execution. I regularly help:
+- frame problems more clearly before solutioning begins
+- distinguish root issues from surface symptoms
+- identify what matters most for business usefulness and operational reality
+- reduce confusion before it becomes rework
+- shape more practical approaches to implementation
+- support sound decisions through better structure and clearer context
+
+## Operational Contributions
+On the operational side, I frequently help:
+- assess and improve workflows
+- support system enhancements and backlog refinement
+- prepare documentation for implementation, QA, and UAT
+- track dependencies and downstream impacts
+- surface gaps before they become delivery issues
+- stabilize handoffs between teams, functions, or systems
+- make complex work more usable for the people responsible for carrying it out
+
+## Communication and Coordination Responsibilities
+A major part of my work is communication through interpretation and structure. I am often responsible for:
+- facilitating alignment across stakeholders
+- helping discussions stay grounded in what is workable
+- asking the questions that expose missing assumptions or hidden impacts
+
+## Problem-Solving Responsibilities
+I am often relied on to step into situations where:
+- complexity has outpaced documentation or shared understanding
+- people need a calmer, clearer path forward
+
+My responsibility in those situations is not just to react, but to clarify, structure, and help move the work toward a usable next state.
+
+## Title vs. Actual Function
+One recurring pattern in my career is that my formal title does not always fully reflect the scope of my contribution. Even when the title is business analyst or similar, the actual work often includes broader responsibility for coordination, structure, prioritization, interpretation, and operational leadership.
+
+I often work in the overlap between analyst, organizer, translator, and improvement-minded operator. This file should be read with that distinction in mind: title may describe the container, but function describes the actual value.
+
+## Notes
+My best work tends to happen in environments where responsibilities are real but not always neatly labeled. I am especially effective when the work requires judgment, organization, and the ability to make complexity more manageable for others.
+
+## Update Guidance
+Update this file when recurring responsibilities, role pattern, or scope of contribution shifts in a meaningful way.

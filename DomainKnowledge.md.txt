@@ -1,0 +1,105 @@
+# Domain Knowledge
+
+**Status:** Active  
+**Last Updated:** 2026-04-06  
+**Purpose:** Capture applied subject-matter knowledge, especially where operations, systems, workflows, and business reality intersect.
+
+## Overview
+My domain knowledge is strongest where operations, systems, process, and business reality intersect. I bring practical working knowledge rather than purely theoretical familiarity. I tend to understand domains by how they function in real environments: what the workflows are, where the dependencies sit, how the systems behave, and where operational or business friction tends to appear.
+
+My background is especially grounded in transportation, logistics, brokerage, and business systems work, with a recurring focus on translating domain complexity into usable structure.
+
+## Core Domain Areas
+My strongest recurring domain areas include:
+- transportation and logistics
+- freight brokerage operations
+- transportation management systems
+- business analysis in operations-heavy environments
+- business process improvement
+- cross-functional systems and workflow coordination
+- requirements translation between business and technical teams
+
+## Transportation and Logistics Knowledge
+I have deep working familiarity with transportation and logistics environments, especially where shipment workflows, operational processes, carrier coordination, and system behavior need to align. My knowledge includes:
+- transportation workflow logic
+- shipment lifecycle thinking
+- operational process dependencies
+- carrier-facing and customer-facing workflow considerations
+- the relationship between execution, visibility, and billing
+- the need for systems to reflect real operating conditions
+
+I understand these environments not just as concepts, but as operational ecosystems where accuracy, timing, handoffs, and clarity materially affect outcomes. The specific details often become more visible within the context of a particular company, workflow, or operating environment.
+
+## Brokerage and TMS Knowledge
+A significant portion of my experience sits in brokerage and transportation management system environments. That includes familiarity with:
+- in-house TMS environments such as PEAK and APT
+- workflow design and enhancement in transportation systems
+- milestone structures and shipment status logic
+- customer profile and template-driven configuration concepts
+- provider assignment and operational handoff logic
+- backlog refinement and documentation for TMS-related improvements
+- the interaction between workflow design and operational usability
+
+I tend to work well in TMS environments where the challenge is not just system functionality, but making the system support the actual business process more effectively.
+
+## Cross-Border and Mexico Logistics Knowledge
+My recent work reflects meaningful domain exposure to cross-border logistics, particularly Mexico–U.S. shipment flows. This includes working knowledge of:
+- cross-border expedite and truckload workflow considerations
+- milestone structures connected to cross-border movement
+- border-related shipment logic and handoff expectations
+- Carta Porte-related milestone and documentation considerations
+- bilingual or internationalized field and workflow needs
+- operational realities that affect milestone design, status handling, and shipment visibility
+
+This area reflects applied business-analysis and systems knowledge in a domain where compliance, operations, and system design intersect.
+
+## Finance and Billing-Adjacent Knowledge
+My work also includes knowledge of finance-connected operational logic, especially where transportation workflows and invoicing behavior intersect. Relevant areas include:
+- billing center logic
+- invoice-related workflow impacts
+- tax and VAT/IVA handling considerations in Mexico-related workflows
+- quote versus invoice behavior differences
+- settlement-related enhancement logic
+- the relationship between operational events and downstream financial treatment
+
+I may not operate as a finance specialist, but I do understand the business and systems implications of finance-connected workflow design.
+
+## Integrations and Data Exchange Knowledge
+Another recurring domain area in my work is integration-aware systems thinking. This includes familiarity with:
+- EDI-related workflow structures
+- common transportation transaction patterns such as 204, 990, and 214
+- Cleo Integration Cloud
+- Oracle OTM Cloud integration patterns
+- JSON and XML-based flows
+- REST and SOAP-oriented integration contexts
+- mock endpoint and testing support through tools like Postman
+
+My value in this area is often in understanding how integrations affect workflow, business process, status handling, and operational clarity rather than acting as a deep technical engineer.
+
+## Reporting, Documentation, and Operational Translation
+A recurring layer across all of my domain knowledge is operational translation. I regularly work in ways that require:
+- understanding the domain well enough to document it clearly
+- converting process and system behavior into requirements
+- defining current state and future state
+- building acceptance criteria and implementation-ready materials
+- identifying upstream and downstream impacts
+- helping technical and business stakeholders stay aligned around what the domain actually requires
+
+This is one of the main ways my domain knowledge becomes useful in practice.
+
+## How I Apply Domain Knowledge
+I tend to apply domain knowledge by:
+- identifying what is operationally true
+- surfacing gaps between system design and real workflow needs
+- clarifying where business rules matter
+- translating subject-matter complexity into structured decisions and documentation
+- improving the usability of systems and processes
+- helping teams work from reality instead of assumptions
+
+My strength is often less about being the loudest subject-matter expert in the room and more about making domain knowledge usable, structured, and actionable.
+
+## Notes
+My domain knowledge should be understood as practical, applied, and closely tied to business analysis, systems improvement, and operational clarity. It is strongest in environments where understanding the domain is necessary for making better workflow, system, and decision outcomes possible.
+
+## Update Guidance
+Update this file when domain depth expands, focus areas shift, or new recurring subject-matter areas become central.

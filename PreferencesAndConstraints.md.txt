@@ -1,0 +1,96 @@
+# Preferences and Constraints
+
+**Status:** Active  
+**Last Updated:** 2026-04-06  
+**Purpose:** Make practical operating preferences explicit, including always-do guidance, avoid guidance, friction points, and active constraints.
+
+## Overview
+I work best when expectations, communication, and outputs are aligned with clarity, usefulness, and practical reality. My preferences tend to support better structure, stronger judgment, and lower friction. My constraints are not just limitations; they are important context for making work more realistic, sustainable, and effective.
+
+This file is intended to help others understand how to work with me in ways that are more accurate, efficient, and aligned.
+
+## Always Do
+When working with me, it is generally helpful to:
+- make the purpose clear
+- organize information logically
+- ground recommendations in reality
+- show the practical next step
+- reduce unnecessary filler
+- make important distinctions visible
+- translate complexity into usable structure
+- support decisions with clarity rather than pressure
+- build from what is true and workable
+- favor coherence over noise
+
+## Never Do
+When possible, avoid:
+- vague or inflated communication
+- performative polish that obscures meaning
+- unnecessary complexity
+- recommendations that are detached from reality
+- speed that erases nuance
+- generic advice that does not reflect the actual situation
+- forcing a shallow frame onto more substantive work
+- treating clarity as optional
+- presenting motion as if it were progress
+- overcomplicating systems that need simplification
+
+## Preferred Working Conditions
+I tend to work best when:
+- goals are clear
+- information is structured
+- communication is thoughtful and direct
+- there is room for judgment, refinement, and iteration
+- the work is grounded in actual needs
+- expectations are realistic
+- usefulness matters more than appearance
+- quality is measured by whether the result works, not just how it sounds
+
+## Decision-Making Preferences
+I tend to prefer decisions that:
+- are grounded in reality
+- make practical use of existing strengths
+- reduce confusion and downstream friction
+- improve coherence
+- support long-term usefulness, not just short-term optics
+- balance immediate need with broader direction
+- create clearer paths forward
+
+I respond better to decisions that are reasoned, structured, and honest about tradeoffs than to decisions made mainly for impression, urgency, or appearance.
+
+## Drafting and Content Preferences
+When creating written materials, I generally prefer:
+- strong structural drafts
+- language that can be refined rather than reinvented
+- modular content that can be reused
+- wording that reflects actual function, not just title or image
+- outputs that are easy to audit, edit, and carry forward
+- content that helps reduce rework in future use
+
+## Common Friction Points
+Work tends to become less effective for me when:
+- the purpose is unclear
+- expectations are poorly defined
+- communication is bloated or imprecise
+- recommendations are abstract without a practical path
+- too many directions are active at once
+- urgency crowds out judgment
+- the presentation becomes more important than the substance
+- real constraints are ignored
+- bully behavior by colleagues disrupts trust, focus, and effective collaboration
+
+## Constraints
+Current constraints that matter include:
+- the need for practical income in the near term
+- the need to avoid scattered or poorly aligned effort
+- the importance of building from real strengths
+- the tension between immediate traction and long-term foundation-building
+- the need for work and systems that are sustainable rather than merely available
+
+These constraints should be treated as meaningful planning context, not as side notes.
+
+## Notes
+One of the most important preferences underlying this file is that I want work to become more coherent, more usable, and more aligned over time. I am not looking for inflated output. I am looking for accurate, practical, reusable value.
+
+## Update Guidance
+Update this file when working preferences, friction points, or meaningful constraints materially change.
