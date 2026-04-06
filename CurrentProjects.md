@@ -7,7 +7,9 @@
 ## Overview
 My current projects are centered on building a clearer, more portable foundation for future work while also supporting practical near-term income. These projects are not isolated from one another. They function as related workstreams that together support positioning, service development, documentation, decision-making, and income direction.
 
-The common thread across them is creating structure from experience and turning that structure into usable assets, clearer offers, and more coherent forward movement.
+A key recent change is that the Personal Context Portfolio has moved from concept and drafting into an active repository-based system. The foundational files are now established in GitHub, and the project has shifted from initial creation into practical use, maintenance, and refinement.
+
+The common thread across these projects is creating structure from experience and turning that structure into usable assets, clearer offers, and more coherent forward movement.
 
 ## Active Project Areas
 My current active project areas include:
@@ -19,16 +21,17 @@ My current active project areas include:
 
 ## Project: Personal Context Portfolio
 ### Purpose
-Build a modular set of living markdown documents that capture important personal and professional context in a portable, reusable format.
+Build and maintain a modular set of living markdown documents that capture important personal and professional context in a portable, reusable format.
 
 ### Current Focus
-- defining the file structure
-- interviewing and drafting file content
-- building reusable documentation across identity, work, goals, relationships, tools, preferences, and knowledge
-- creating a system that reduces the need to repeatedly reconstruct context from scratch
+- maintaining the GitHub repository as the source system for durable context
+- refining core files as real-world priorities and projects evolve
+- applying the portfolio to support writing, positioning, planning, and decision-making
+- using the workflow structure to reinforce ongoing review and refinement
+- extending the portfolio into more action-oriented supporting files where useful
 
 ### Why It Matters
-This project supports continuity, clarity, reuse, and more efficient future drafting across platforms and opportunities.
+This project now functions as foundational infrastructure rather than a draft exercise. It supports continuity, clarity, reuse, and more efficient future drafting across platforms and opportunities.
 
 ## Project: Structured Service Offerings
 ### Purpose
@@ -83,9 +86,11 @@ Create supporting materials that make future work easier, faster, and more coher
 This project reduces friction, improves consistency, and turns thinking into durable assets.
 
 ## How These Projects Relate
-These projects are interconnected rather than separate. The personal context portfolio supports positioning. Positioning supports service offerings. Service offerings support income direction. Reusable assets strengthen all of them.
+These projects are interconnected rather than separate. The personal context portfolio now serves as the core source system for the rest of the work. It supports positioning, strengthens service development, improves continuity across materials, and reduces friction in future drafting and decision-making.
 
-Together, these projects form a practical ecosystem: clarify the context, shape the value, create the assets, and support the next stage of work.
+Positioning supports service offerings. Service offerings support income direction. Reusable assets strengthen all of them.
+
+Together, these projects form a practical ecosystem: capture the context, shape the value, create the assets, and support the next stage of work.
 
 ## Current Constraints
 The main constraints shaping these projects include:
