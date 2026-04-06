@@ -222,3 +222,42 @@ This summary is intended as a working outward-facing services overview and shoul
 
 ## Update Guidance
 Update this file when service framing, engagement structure, or market-facing language materially changes.
+
+## Services
+
+I help organizations make messy work more usable.
+
+That includes clarifying requirements, improving workflows, translating between business and technical teams, and creating documentation that supports execution instead of adding noise.
+
+### Core support areas
+
+**Business Analysis and Requirements Support**  
+Turn unclear requests into structured requirements, user stories, acceptance criteria, and implementation-ready documentation.
+
+**Process and Workflow Improvement**  
+Identify workflow friction, process gaps, dependency issues, and handoff breakdowns, then turn them into clearer improvement direction.
+
+**Systems and Operations Translation**  
+Bridge business need, operational reality, and system behavior so teams can move forward with less confusion and better alignment.
+
+**Documentation and Communication Infrastructure**  
+Create structured, reusable documentation that improves continuity, reduces rework, and gives teams something usable to work from.
+
+### Good fit
+This work is a strong fit when:
+- the need is real, but the ask is still messy
+- stakeholders are not fully aligned
+- workflows are creating friction
+- important context is scattered
+- teams need clearer structure before moving forward
+
+### Engagement options
+Support can be structured as:
+- a short clarity sprint
+- a defined-scope assessment
+- a documentation build
+- short-term advisory support
+
+### Starting point
+The best place to start is usually a short conversation to clarify what is not working, what is still unclear, and what kind of support would be most useful first.
+
