@@ -128,3 +128,97 @@ This summary is intended as a working outward-facing overview. It should be refi
 
 ## Update Guidance
 Update this file when core offers, engagement shapes, positioning language, or ideal-fit patterns materially change.
+
+
+
+# Services Summary
+
+**Status:** Drafting  
+**Last Updated:** 2026-04-06  
+**Purpose:** Provide a concise, sales-oriented summary of services, fit, and working approach.
+
+## Overview
+I help organizations make messy work more usable.
+
+That includes clarifying requirements, improving workflows, translating between business and technical teams, and creating documentation that supports execution instead of adding noise.
+
+My work is best suited to environments where complexity is real, clarity is needed, and better structure would make the next step easier.
+
+## Core Service Areas
+
+### Business Analysis and Requirements Support
+I help turn unclear requests into structured requirements and usable next-step documentation.
+
+Typical support:
+- requirements clarification
+- user stories and acceptance criteria
+- backlog refinement
+- business-to-technical translation
+- implementation-ready documentation
+
+### Process and Workflow Improvement
+I help identify workflow friction, process gaps, and handoff issues, then translate them into clearer improvement direction.
+
+Typical support:
+- workflow assessment
+- process gap analysis
+- dependency review
+- friction-point identification
+- practical recommendations
+
+### Systems and Operations Translation
+I help connect business need, operational reality, and system behavior so teams can move forward with less confusion.
+
+Typical support:
+- operational framing for system changes
+- stakeholder alignment support
+- decision support summaries
+- structured analysis notes
+- implementation context materials
+
+### Documentation and Communication Infrastructure
+I create structured documentation that improves continuity, reduces rework, and gives teams something usable to work from.
+
+Typical support:
+- reusable reference files
+- process or project context summaries
+- internal playbooks
+- communication templates
+- modular documentation systems
+
+## Good Fit
+This work is a strong fit when:
+- the need is real, but the ask is still messy
+- stakeholders are not fully aligned
+- workflows are creating friction
+- important context is scattered
+- teams need clearer structure before moving forward
+
+## Engagement Shapes
+Support can be structured as:
+- a short clarity sprint
+- a defined-scope assessment
+- a documentation build
+- short-term advisory support
+
+## Working Style
+My approach is thoughtful, structured, and practical.
+
+I focus on:
+- clarity over noise
+- structure over drift
+- usable outputs over vague advice
+- practical next steps over inflated language
+
+## Starting Point
+The best place to start is usually a short conversation to clarify:
+- what is not working
+- what is still unclear
+- what kind of output would be most useful
+- what scope makes the most sense first
+
+## Notes
+This summary is intended as a working outward-facing services overview and should continue to sharpen with market feedback.
+
+## Update Guidance
+Update this file when service framing, engagement structure, or market-facing language materially changes.
