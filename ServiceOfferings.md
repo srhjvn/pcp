@@ -463,3 +463,165 @@ The aim is not to offer everything. The aim is to offer a small number of clear,
 
 ## Notes
 These packages are initial working versions. They should be refined as real conversations, market feedback, and delivery experience reveal which offers are easiest to position, easiest to sell, and most worthwhile to expand.
+
+## Initial Pricing Logic
+
+### Pricing Approach
+Initial pricing should support three goals at the same time:
+- make the offers easy to understand
+- reflect real value without underpricing the work
+- preserve flexibility while early market feedback is still developing
+
+At this stage, pricing should be guided more by scope, complexity, and business usefulness than by overly polished package language. The goal is not to create a public rate card too early. The goal is to establish practical internal logic for quoting and scoping.
+
+## Core Pricing Principles
+Pricing should generally:
+- reflect structured problem-solving, not just document production
+- account for clarity, translation, judgment, and reduction of downstream friction
+- stay grounded in realistic delivery scope
+- support near-term traction without collapsing into underpricing
+- remain adjustable based on client type, complexity, and speed requirements
+- avoid promising more than the offer shape can reasonably support
+
+## Recommended Pricing Structure
+The strongest starting structure is a three-part logic:
+
+### 1. Fixed Fee for Clearly Bounded Work
+Use fixed pricing when:
+- the scope is clear
+- the deliverables are defined
+- the work can be estimated with reasonable confidence
+- the engagement is short and structured
+
+Best fit for:
+- Requirements Clarity Sprint
+- Workflow Friction Assessment
+- Documentation Infrastructure Build
+
+Why this works:
+- easier for clients to understand
+- easier to position as a clear entry point
+- supports scope discipline
+- reduces ambiguity at the beginning of the relationship
+
+### 2. Hourly or Daily Rate for Advisory Work
+Use hourly or day-based pricing when:
+- the work is variable
+- the client needs flexible support
+- the exact shape of the work may evolve
+- the engagement depends on ongoing judgment rather than one fixed deliverable
+
+Best fit for:
+- Short-Term Advisory Support
+- mixed follow-on support after an assessment
+- stakeholder alignment or documentation support that develops over time
+
+Why this works:
+- preserves flexibility
+- prevents overcommitting fixed-price scope to unclear work
+- matches the reality of evolving advisory support
+
+### 3. Retainer Only After Real Pattern Fit Exists
+Use retainers only when:
+- the client has an ongoing, repeating need
+- the support pattern is clear
+- there is enough trust and working rhythm to justify continuity
+- the expected value is recurring, not occasional
+
+Best fit for:
+- repeated advisory support
+- ongoing backlog or requirements support
+- recurring documentation and coordination support
+
+Why this works:
+- supports continuity
+- creates income stability
+- fits the long-term direction of more portable and self-defined work
+
+Retainers should not be the first move unless the client already clearly understands the need and the engagement shape.
+
+## Internal Pricing Tiers
+For internal planning, it may help to think in broad pricing bands rather than hard public rates.
+
+### Tier 1: Quick Clarity Engagement
+Small, well-bounded, fast-turn support intended to create structure and momentum.
+
+Examples:
+- clarify a backlog item set
+- structure a rough request into requirements
+- document current-state / future-state at a lightweight level
+
+Use when:
+- the ask is specific
+- the timeline is short
+- the deliverable is focused
+
+### Tier 2: Defined Assessment or Build
+A more substantial project with clearer deliverables, more review, and more applied judgment.
+
+Examples:
+- workflow friction assessment
+- documentation infrastructure build
+- structured process review and recommendations
+
+Use when:
+- multiple stakeholders are involved
+- the problem has more moving parts
+- the outputs need to support future action
+
+### Tier 3: Advisory or Embedded Support
+Ongoing or short-term recurring support where value comes from continuity, judgment, and cross-cutting contribution.
+
+Examples:
+- recurring requirements support
+- ongoing process clarification
+- issue framing and decision support across several workstreams
+
+Use when:
+- the need is real but evolving
+- the client benefits from continuity
+- the work spans multiple related problem areas
+
+## Quoting Logic
+When shaping a quote, price should be influenced by:
+- scope clarity
+- number of stakeholders involved
+- complexity of the workflow or system environment
+- amount of ambiguity that must be resolved
+- depth of documentation required
+- review cycles and revision expectations
+- urgency or compressed turnaround
+- implementation proximity
+- whether the engagement is stand-alone or likely to expand
+
+## Scope Protection Notes
+Pricing should stay connected to scope discipline.
+
+Important guardrails:
+- clearly define what is included
+- define what is out of scope where needed
+- avoid vague “support everything” language
+- separate initial assessment from deeper implementation support
+- price for the thinking, framing, and structure, not just the final document
+- revise pricing when complexity expands beyond the original engagement shape
+
+## Early Positioning Guidance
+In early conversations, it may be better to say:
+- “I scope these based on the shape and complexity of the work.”
+- “For clearly bounded work, I usually structure this as a fixed-fee engagement.”
+- “For more variable support, I typically use an hourly or advisory structure.”
+- “I prefer to define scope clearly before locking in numbers.”
+
+This keeps pricing grounded and professional without forcing premature precision.
+
+## Practical Recommendation
+The strongest near-term pricing approach is:
+- fixed-fee entry offers for the first three packages
+- hourly or short-term advisory pricing for flexible support
+- retainers only after repeated need and fit are clearly established
+
+This supports practical traction while preserving enough flexibility to learn from real client conversations.
+
+## Notes
+Initial pricing logic should remain a working internal framework until clearer market feedback develops. The goal is not to finalize a perfect pricing model in advance. The goal is to support confident, structured, and realistic offer conversations.
+
