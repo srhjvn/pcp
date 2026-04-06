@@ -7,7 +7,13 @@
 # Identity
 
 **Status:** Active  
-**Last Updated:** 2026-04-06  
+
+**Last Updated:** 2026-04-06 
+
+**Related_Files:** [README.md, RolesandResponsibilities.md, CommunicationStyle.md, PreferencesAndConstraints.md, ServiceOfferings.md, ServicesSummary.md] 
+
+**review_Date:** 2026-07-06
+
 **Purpose:** Capture durable identity-level context, including professional identity, strengths, values, current season, and future direction.
 
 ## Overview
