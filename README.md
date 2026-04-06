@@ -182,40 +182,10 @@ Examples for future supporting files:
 - `OperatingPrinciples.md`
 - `OpportunityPipeline.md`
 
-## Lightweight File Template
-Use this lightweight template when creating new files in the repository.
-
-```md
-# File Title
-
-**Status:** Active
-**Last Updated:** YYYY-MM-DD
-**Purpose:** One-line description of file purpose.
-
-## Overview
-High-level summary of the topic or context this file captures.
-
-## Core Sections
-Use the sections that best fit the file.
-
-## Update Guidance
-What kinds of changes should trigger an update to this file.
-
-## Current Implementation Status
-The repository foundation is established and the core starter files are in place. The portfolio is now in the transition from initial drafting to active use, refinement, and application.
-
-Current emphasis is on:
-- keeping active files current
-- using the decision log for meaningful changes
-- applying the portfolio to outward-facing assets
-- extending the repository only where new files create practical value
-
-**## Single-Source-of-Truth Rules 
-**
+## Single-Source-of-Truth Rules 
 The Personal Context Portfolio uses a modular documentation structure. Each core file has a defined primary purpose and should serve as the single source of truth for its subject area. Information should be maintained in its designated home first, with other files pointing back to that source rather than recreating it.
 
 1. Primary ownership by core file
-
 README.md
 Owns repository orientation, file purpose summary, usage guidance, and navigation into the portfolio.
 
@@ -249,10 +219,8 @@ Owns reusable subject-matter knowledge, industry context, terminology, and refer
 DecisionLog.md
 Owns meaningful decisions made, rationale, date/context, and implications of those decisions.
 
-2. Duplication rules
-
+## 2. Duplication rules
 Information should appear in full in one primary file only.
-
 Other files may contain:
 - a short summary
 - a brief contextual mention
@@ -269,8 +237,7 @@ When overlap is unavoidable:
 - label it as a reference or summary
 - update the source file first
 
-3. Cross-reference guidance
-
+## 3. Cross-reference guidance
 When one file depends on information owned elsewhere, use a cross-reference instead of restating the full content.
 
 Preferred pattern:
@@ -284,8 +251,7 @@ RolesandResponsibilities.md may reference tools in ToolsAndSystems.md
 CommunicationStyle.md may align with constraints in PreferencesAndConstraints.md without duplicating them
 project-specific decisions may be noted in CurrentProjects.md, but the formal record belongs in DecisionLog.md
 
-4. Practical maintenance rule
-
+## 4. Practical maintenance rule 
 Before adding new content, ask:
 Which file owns this subject?
 - Is this net-new information, or does it already exist elsewhere?
@@ -293,12 +259,135 @@ Which file owns this subject?
 - If the content fits an existing file, update that file first.
 - Create a new file only when the subject cannot be cleanly maintained within the current structure.
 
-5. Conflict resolution rule
-
+## 5. Conflict resolution rule
 If two files appear to conflict:
 - treat the file with primary ownership as authoritative
 - update or remove the conflicting duplicate
 - log the clarification in DecisionLog.md if the change affects structure, governance, or operating practice
+
+
+## Archive Rules
+To keep the repository usable over time, files should remain in the active structure only while they support current work, current understanding, or active reference use. Archive rules help separate living documentation from historical material without turning the repository into a storage dump or an over-managed records system.
+
+## Archive criteria
+A file should be considered for archive when one or more of the following is true:
+- the content is no longer actively used
+- the content has been replaced by a newer file or structure
+- the content reflects a completed phase, retired approach, or outdated version
+- the content is being retained for historical context only
+- the content would add clutter or confusion if left in the active file set
+
+A file should usually be archived when:
+- it is no longer part of the active operating system
+- it no longer needs routine review
+- it is not serving as a current reference source
+
+A file should usually not be archived when:
+- it still supports current decisions
+- it is still referenced by active files
+- it contains durable guidance that remains valid
+- it is inactive in editing frequency but still useful as a live reference
+
+## Inactive vs. reference distinction
+Not all low-change files should be archived.
+
+## Inactive file
+- An inactive file is a file that is updated infrequently but still belongs in the active repository because it remains useful for current reference, orientation, or decision support.
+
+Examples may include:
+- stable identity information
+- durable communication guidance
+- domain reference material still in use
+- system documentation that changes infrequently but still governs current work
+
+Inactive files may remain in the active structure and should usually continue to use current metadata conventions.
+
+## Reference file
+- A reference file is a file kept primarily for background, historical context, examples, or past decision support. It may still be useful, but it no longer functions as a primary current operating file.
+
+Reference files may either:
+- remain visible in the main structure with a status such as Superseded when occasional access is still helpful
+or be moved to the archive location when they no longer need day-to-day visibility
+
+## Archive decision rule
+Use this question when reviewing a file:
+Does this file still support current work or current understanding?
+- if yes, keep it in the active structure, even if rarely updated
+- if no, archive it
+- if partly, decide whether it should remain visible as reference material or move to archive for historical retention only
+
+## Naming and location convention
+Archived material should be moved to:
+Archive/
+
+Default convention:
+move the file into Archive/
+keep the original filename
+
+Example:
+Archive/ServiceOfferings.md
+
+If multiple historical versions of the same file need to be preserved, use a dated filename:
+
+Archive/2026-04-06-ServiceOfferings.md
+
+Use the original filename when only one archived version is being retained.
+Use the dated filename when version distinction matters.
+
+## Status guidance
+When a file is moved to archive, use:
+- status: Archived
+
+When a file remains visible in the active structure but has been replaced by a newer authoritative file, use:
+- status: Superseded
+
+## Practical maintenance guidance
+
+When reviewing a file, ask:
+- Is this file still current?
+- Is it still used in active work?
+- Is it authoritative, reference-only, or historical?
+- Would leaving it in the active structure create confusion?
+
+Apply the result as follows:
+- current and useful → keep active
+- stable but still useful → keep as active reference
+- replaced or historical → archive or mark superseded
+
+Operating principle
+- Archive for clarity, not for volume.
+- A file does not need to be archived just because it changes rarely. It should be archived when it stops supporting the active system.
+
+
+
+## Lightweight File Template
+Use this lightweight template when creating new files in the repository.
+
+```md
+
+# File Title
+
+**Status:** Active
+**Last Updated:** YYYY-MM-DD
+**Purpose:** One-line description of file purpose.
+
+## Overview
+High-level summary of the topic or context this file captures.
+
+## Core Sections
+Use the sections that best fit the file.
+
+## Update Guidance
+What kinds of changes should trigger an update to this file.
+
+## Current Implementation Status
+The repository foundation is established and the core starter files are in place. The portfolio is now in the transition from initial drafting to active use, refinement, and application.
+
+Current emphasis is on:
+- keeping active files current
+- using the decision log for meaningful changes
+- applying the portfolio to outward-facing assets
+- extending the repository only where new files create practical value
 
 ## Notes
 Anything important that does not fit neatly in the sections above.
