@@ -30,7 +30,9 @@ The goals of this repository are to:
 - reduce friction in communication, drafting, and decision-making
 - support work that is more coherent, portable, and self-defined over time
 
+
 ## Core File Links
+The sections below are intended to make the repository easier to navigate and use in practice, not just understand in theory.
 
 Use the links below to move directly into the core portfolio files.
 
@@ -44,6 +46,58 @@ Use the links below to move directly into the core portfolio files.
 - [Preferences and Constraints](./PreferencesAndConstraints.md)
 - [Domain Knowledge](./DomainKnowledge.md)
 - [Decision Log](./DecisionLog.md)
+
+## Common Use Paths
+
+Use the repository according to the type of work being done.
+
+### To understand identity, direction, and current priorities
+Start with:
+- [Identity](./Identity.md)
+- [Goals and Priorities](./GoalsAndPriorities.md)
+- [Current Projects](./CurrentProjects.md)
+
+Use this path when clarifying direction, preparing positioning language, or re-centering on what matters most right now.
+
+### To prepare for writing, communication, or collaboration
+Start with:
+- [Communication Style](./CommunicationStyle.md)
+- [Preferences and Constraints](./PreferencesAndConstraints.md)
+- [Team and Relationships](./TeamAndRelationships.md)
+
+Use this path when drafting messages, preparing responses, or adjusting tone and communication approach for a specific context.
+
+### To understand day-to-day operating context
+Start with:
+- [Roles and Responsibilities](./RolesandResponsibilities.md)
+- [Tools and Systems](./ToolsAndSystems.md)
+- [Current Projects](./CurrentProjects.md)
+
+Use this path when explaining how work is actually performed, documenting operating reality, or preparing materials tied to active responsibilities.
+
+### To capture or review decisions
+Start with:
+- [Decision Log](./DecisionLog.md)
+- [Goals and Priorities](./GoalsAndPriorities.md)
+- [Preferences and Constraints](./PreferencesAndConstraints.md)
+
+Use this path when recording a meaningful decision, reviewing tradeoffs, or checking whether a prior decision should be revisited.
+
+### To reference applied expertise and reusable knowledge
+Start with:
+- [Domain Knowledge](./DomainKnowledge.md)
+- [Tools and Systems](./ToolsAndSystems.md)
+- [Roles and Responsibilities](./RolesandResponsibilities.md)
+
+Use this path when creating summaries, drafting service language, or translating past experience into reusable professional context.
+
+### To update the portfolio itself
+Start with:
+- [Current Projects](./CurrentProjects.md)
+- [Goals and Priorities](./GoalsAndPriorities.md)
+- [Decision Log](./DecisionLog.md)
+
+Then update any other file where the change belongs based on file purpose and scope.
 
 ## File Purpose Summary
 
