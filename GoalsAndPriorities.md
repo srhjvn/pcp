@@ -31,7 +31,8 @@ Progress in this season looks like:
 - moving toward more stable income opportunities
 - shaping work that is more portable and more self-defined
 - reducing confusion, drift, and reactive decision-making
-
+- turning the personal context portfolio into an active, maintained source system rather than a concept-only project
+  
 ## Decision Filters
 Right now, I am more likely to prioritize work or opportunities that:
 - make practical use of my strengths in clarity, structure, and translation
@@ -46,6 +47,9 @@ This personal context portfolio is intended to support several immediate needs:
 - create continuity across projects, documents, and platforms
 - make future drafting, planning, and communication more efficient
 - build a living reference point that can evolve over time
+- use the repository as a working source for future outward-facing materials
+- keep the portfolio current enough to remain useful in live decision-making
+- connect documentation work more directly to practical opportunities and income-supporting assets
 
 ## Tradeoffs and Tensions
 This season includes some active tensions:
