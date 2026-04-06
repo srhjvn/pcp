@@ -125,6 +125,46 @@ This decision makes the portfolio a core enabling project rather than a side exe
 #### Revisit Trigger
 Revisit if the portfolio stops being useful in practice, becomes too burdensome to maintain, or no longer supports current priorities.
 
+
+### Establish GitHub repository and maintenance workflow for the Personal Context Portfolio
+
+**Date:** 2026-04-06  
+**Status:** Decided  
+**Category:** Project  
+
+#### Decision
+Use the GitHub repository as the active storage and maintenance environment for the Personal Context Portfolio, supported by a repository workflow designed around the lifecycle identify → interview → draft → review → store → refine.
+
+#### Context
+The portfolio had already been structured and drafted, but needed a practical home and operating rhythm in order to become useful as a living system rather than a static collection of files.
+
+#### Options Considered
+- Keep the portfolio as local-only documents
+- Store the portfolio in GitHub without a workflow structure
+- Establish the portfolio in GitHub with a lightweight maintenance workflow
+
+#### Rationale
+Using GitHub with a maintenance workflow makes the portfolio easier to preserve, update, review, and apply over time. It reinforces consistency and supports the intended use of the repository as living documentation.
+
+#### Tradeoffs
+This choice adds light administrative structure, but improves continuity, reduces drift, and increases the practical usability of the portfolio.
+
+#### Constraints
+- need to keep the system lightweight
+- need to avoid overcomplicating maintenance
+- need to ensure the portfolio remains usable rather than burdensome
+
+#### Implications
+The PCP is now an active operational asset. Future updates should be made in the repository, and the portfolio can now be used as the source system for derivative materials.
+
+#### Follow-Up
+- update active-project files to reflect implementation status
+- use the repo to support future service, positioning, and planning work
+- add supporting files only when they create real value
+
+#### Revisit Trigger
+Revisit if the repository structure becomes too heavy, too static, or disconnected from actual use.
+
 ---
 
 ## Logging Guidance
