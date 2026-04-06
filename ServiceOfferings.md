@@ -1250,3 +1250,92 @@ A few modest, credible examples are more useful than a large number of vague one
 ## Notes
 These case seeds are meant to preserve usable proof in a flexible form. Over time, they can be sharpened into sanitized case studies, proposal examples, capability statements, service page proof blocks, or interview stories.
 
+## Drafted Sanitized Case Examples
+
+### Case Example 1: Converting scattered requests into implementation-ready requirements
+
+**Context:**  
+A business need was real, but the actual request was not yet structured clearly enough for efficient execution. Important details were spread across conversations, assumptions, and partial documentation, making it difficult for stakeholders to align on what should happen next.
+
+**Challenge:**  
+The main challenge was not a lack of effort. It was a lack of usable structure. Without clearer framing, the work risked generating confusion, rework, and avoidable delays between business stakeholders and downstream delivery teams.
+
+**Contribution:**  
+I helped clarify what was actually being requested, identified where assumptions or gaps were still present, and translated the need into more structured business-facing documentation. This included shaping the problem into clearer requirements, defining the relevant decision points, and organizing the information in a way that was easier for others to review and act on.
+
+**Output:**  
+The resulting materials included structured requirements, clearer business framing, documented open questions, and implementation-supporting artifacts such as user stories, acceptance criteria, or similar working documents.
+
+**Value:**  
+This improved shared understanding, reduced ambiguity, and made the work more actionable for the people responsible for carrying it forward. The value was not only in producing documentation, but in creating enough clarity for movement to become more coherent and less reactive.
+
+**Relevant Service Lane:**  
+Business Analysis and Requirements Support
+
+**Reusable Short Version:**  
+Helped turn a loosely defined business need into structured requirements and implementation-ready documentation, reducing ambiguity and improving alignment across stakeholders.
+
+---
+
+### Case Example 2: Assessing workflow friction and clarifying operational gaps
+
+**Context:**  
+A workflow or operational process was creating friction, but the underlying issue was not yet fully defined. People could feel that the process was heavier, messier, or less effective than it should be, but the exact breakdown points were still blurred together.
+
+**Challenge:**  
+The challenge was to move beyond general frustration and identify what was actually causing the drag. This required separating visible symptoms from operational root issues, especially across handoffs, dependencies, and process expectations.
+
+**Contribution:**  
+I reviewed the workflow from an operational perspective, helped identify where dependencies and handoffs were creating friction, and organized the process into a clearer picture of what was happening in practice. I focused on surfacing the mismatch between intended process flow and actual operating reality, then documenting the areas most in need of clarification or improvement.
+
+**Output:**  
+The result was a structured assessment of the workflow, including identified friction points, dependency observations, process gaps, and practical recommendations for improvement or next-step review.
+
+**Value:**  
+This made the workflow easier to evaluate and discuss, reduced noise around the problem, and helped shift the conversation toward actionable improvement rather than repeated workaround behavior. The value came from making the operational reality visible enough to support better decisions.
+
+**Relevant Service Lane:**  
+Process and Workflow Improvement
+
+**Reusable Short Version:**  
+Reviewed a friction-heavy workflow, identified key process gaps and dependency issues, and translated operational pain points into clearer improvement direction.
+
+---
+
+### Case Example 3: Building reusable documentation to reduce rework and improve continuity
+
+**Context:**  
+Important business or project context existed, but it was scattered across notes, discussions, individual memory, and disconnected documents. This made it difficult to reuse information consistently or maintain continuity across work over time.
+
+**Challenge:**  
+The challenge was not just creating more documentation. It was creating documentation that was structured well enough to reduce repeated explanation, support future use, and hold together as a practical reference system.
+
+**Contribution:**  
+I consolidated the relevant context, organized it into modular documentation, and structured the material so that it could be reused more easily in future planning, writing, and decision-making. The emphasis was on making the information practical, portable, and easier to maintain rather than simply creating static records.
+
+**Output:**  
+The resulting documentation set included structured reference files, reusable context materials, and a format that supported future refinement and ongoing use.
+
+**Value:**  
+This reduced friction, improved continuity, and made future work more efficient by creating a usable source system rather than requiring repeated reconstruction from scratch. The value came from turning scattered information into a durable working asset.
+
+**Relevant Service Lane:**  
+Documentation and Communication Infrastructure
+
+**Reusable Short Version:**  
+Built a modular documentation set that turned scattered context into reusable reference material, improving continuity and reducing future rework.
+
+---
+
+## Best Near-Term Uses
+These examples are most useful for:
+- proposal language
+- capability summaries
+- service page proof blocks
+- LinkedIn positioning support
+- introductory client conversations
+- interview and consulting examples
+
+## Notes
+These examples are intentionally sanitized and pattern-based. They can be made stronger over time by adding more concrete scope signals, clearer before/after contrasts, or selective outcome language where appropriate and supportable.
+
