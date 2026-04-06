@@ -1339,3 +1339,121 @@ These examples are most useful for:
 ## Notes
 These examples are intentionally sanitized and pattern-based. They can be made stronger over time by adding more concrete scope signals, clearer before/after contrasts, or selective outcome language where appropriate and supportable.
 
+
+## Micro-Proof Blocks
+
+### Purpose
+This section translates longer case examples into short proof statements that are easier to reuse in outward-facing materials. These blocks are meant to be brief, credible, and adaptable across formats.
+
+They should:
+- sound real
+- stay modest in tone
+- connect clearly to practical value
+- be easy to insert into service pages, bios, proposals, or pitch materials
+
+## Micro-Proof Block 1: Requirements Clarity
+I have repeatedly helped turn loosely defined business needs into structured requirements and usable documentation. The value has typically come from reducing ambiguity, surfacing missing assumptions, and creating clearer next-step materials for the people responsible for delivery.
+
+### Best Fit
+- Business Analysis and Requirements Support
+- capability summaries
+- proposal introductions
+- service page proof sections
+
+---
+
+## Micro-Proof Block 2: Workflow Friction
+A recurring pattern in my work has been helping teams make sense of workflows that feel heavier, messier, or less effective than they should. By identifying friction points, dependencies, and handoff gaps, I help translate operational pain into clearer improvement direction.
+
+### Best Fit
+- Process and Workflow Improvement
+- operational support positioning
+- service overview materials
+
+---
+
+## Micro-Proof Block 3: Business-to-Technical Translation
+I often work in the space between business need, operational reality, and technical execution. A consistent part of my value has been helping different stakeholders move toward a clearer shared understanding of what the work actually requires.
+
+### Best Fit
+- Systems and Operations Translation
+- consulting bios
+- pitch materials
+- service pages
+
+---
+
+## Micro-Proof Block 4: Documentation That Supports Action
+A meaningful part of my work has involved turning scattered context into structured documentation that people can actually use. The goal is not just to document information, but to create materials that improve continuity, reduce rework, and support better execution.
+
+### Best Fit
+- Documentation and Communication Infrastructure
+- internal documentation offers
+- capability statements
+
+---
+
+## Micro-Proof Block 5: Stakeholder Alignment
+I often add value by helping stakeholders work from a clearer common picture. That usually means surfacing hidden assumptions, organizing information more effectively, and keeping discussions grounded in what is workable rather than letting ambiguity drive the process.
+
+### Best Fit
+- Stakeholder Alignment and Decision Support
+- advisory positioning
+- proposal language
+
+---
+
+## Micro-Proof Block 6: Operationally Grounded Systems Support
+My strongest systems-related work tends to happen where the real issue is not just technical change, but making systems support operational reality more effectively. I help connect workflow needs, business rules, and system behavior in ways that make the work more usable and better aligned.
+
+### Best Fit
+- Systems and Operations Translation
+- workflow and systems support offers
+- operational consulting materials
+
+---
+
+## Micro-Proof Block 7: Structured Problem-Solving in Complex Environments
+I work best in environments where complexity is real and multiple people, processes, or systems need to connect. A recurring contribution has been making those environments more manageable by bringing structure, clarity, and practical next-step thinking to situations that might otherwise stay fragmented.
+
+### Best Fit
+- cross-functional consulting
+- capability overviews
+- advisory support language
+
+---
+
+## Micro-Proof Block 8: Reusable Context Infrastructure
+I have increasingly focused on building documentation and context systems that reduce the need to repeatedly reconstruct important information from scratch. This kind of work improves continuity, supports future decision-making, and turns scattered knowledge into durable working assets.
+
+### Best Fit
+- Documentation and Communication Infrastructure
+- portfolio or knowledge-system offers
+- internal infrastructure support language
+
+## Shortest-Version Proof Lines
+These can be used as one-line inserts in tight spaces:
+
+- Turn ambiguity into structured requirements and usable next steps.
+- Clarify workflow friction and translate it into practical improvement direction.
+- Bridge business need, operational reality, and technical execution.
+- Build documentation people can actually use for continuity and action.
+- Help stakeholders align around what is actually needed.
+- Make complex operational environments more manageable and coherent.
+
+## Usage Guidance
+Use these blocks when:
+- a longer case example would be too much
+- the format needs concise proof
+- the audience needs a fast credibility signal
+- the material needs to stay readable and scannable
+
+When possible:
+- match the proof block to the specific service lane
+- keep the surrounding language plain and concrete
+- avoid stacking too many proof blocks in one place
+- use them to support, not replace, clearer service descriptions
+
+## Notes
+These proof blocks should stay modular and reusable. Over time, they can be tightened further based on which phrases resonate most in real conversations, proposals, and positioning materials.
+
