@@ -1,7 +1,14 @@
 # Preferences and Constraints
 
 **Status:** Active  
-**Last Updated:** 2026-04-06  
+
+**Last Updated:** 2026-04-06 
+
+**Related_Files:** [README.md, CommunicationStyle.md, Identity.md, GoalsAndPriorities.md, RolesandResponsibilities.md]
+
+**review_Date:** 2026-07-06
+
+
 **Purpose:** Make practical operating preferences explicit, including always-do guidance, avoid guidance, friction points, and active constraints.
 
 ## Overview
