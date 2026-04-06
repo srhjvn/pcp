@@ -1,7 +1,13 @@
 # Current Projects
 
 **Status:** Active  
-**Last Updated:** 2026-04-06  
+
+**Last Updated:** 2026-04-06 
+
+**related_files:** [README.md, GoalsAndPriorities.md, DecisionLog.md, ToolsAndSystems.md, TeamAndRelationships.md]
+
+**review_Date:** 2026-07-06
+
 **Purpose:** Track active workstreams, current focus areas, and how ongoing projects relate to one another.
 
 ## Overview
