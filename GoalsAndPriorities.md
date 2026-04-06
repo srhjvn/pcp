@@ -1,7 +1,13 @@
 # Goals and Priorities
 
 **Status:** Active  
-**Last Updated:** 2026-04-06  
+
+**Last Updated:** 2026-04-06 
+
+**Related_Files:** [README.md, CurrentProjects.md, DecisionLog.md, RolesandResponsibilities.md, PreferencesAndConstraints.md]
+
+**review_Date:** 2026-07-06
+
 **Purpose:** Define active goals, current priorities, decision filters, and what progress means in the current season.
 
 ## Overview
