@@ -383,7 +383,7 @@ What kinds of changes should trigger an update to this file.
 ## Current Implementation Status
 The repository foundation is established and the core starter files are in place. The portfolio is now in the transition from initial drafting to active use, refinement, and application.
 
-Current emphasis is on:
+## Current emphasis is on:
 - keeping active files current
 - using the decision log for meaningful changes
 - applying the portfolio to outward-facing assets
