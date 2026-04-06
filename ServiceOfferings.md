@@ -185,6 +185,11 @@ This file should evolve as service language becomes sharper, market feedback inc
 ## Update Guidance
 Update this file when service lanes become clearer, new delivery patterns emerge, market feedback sharpens positioning, or one or more offerings become active priorities.
 
+## Service Development Direction
+Not every service lane needs to be developed at the same depth at the same time. The goal is to identify the offerings that are easiest to explain, closest to proven strengths, most useful in real client situations, and most likely to support practical traction.
+
+The sections that follow are intended to help narrow focus, shape clearer package design, and support more confident outward-facing positioning over time.
+
 ## Priority Service Lane Candidates
 
 ### 1. Business Analysis and Requirements Support
@@ -282,6 +287,11 @@ The current best strategy is:
 3. keep **Documentation and Communication Infrastructure** as a practical differentiator and supporting offer
 
 This approach supports both immediate usability and longer-term flexibility. It starts with the lane that is easiest to explain and most grounded in proven work, while preserving room to expand into broader and more distinctive service positioning over time.
+
+## From Service Themes to Offer Shapes
+Service themes describe the kinds of value I provide. Offer packaging translates that value into engagement shapes that are easier to scope, explain, and deliver.
+
+The initial packaging approach is intentionally simple. The goal is to create clear entry points, not to overbuild a consulting menu too early.
 
 ## Initial Offer Packaging
 
@@ -463,6 +473,9 @@ The aim is not to offer everything. The aim is to offer a small number of clear,
 
 ## Notes
 These packages are initial working versions. They should be refined as real conversations, market feedback, and delivery experience reveal which offers are easiest to position, easiest to sell, and most worthwhile to expand.
+
+## From Offer Shapes to Pricing Logic
+Once offers are packaged clearly, the next requirement is a practical pricing framework. The purpose of the pricing section is not to set a public rate card too early. It is to support internal consistency, better scoping, and more confident quoting logic.
 
 ## Initial Pricing Logic
 
@@ -827,6 +840,11 @@ Proof should generally:
 - favor credibility over hype
 
 The best proof is often not dramatic. It is clear, repeatable, and believable.
+
+## Making the Offers More Credible
+Offer structure alone is not enough. To make these service lanes believable and usable in real conversations, they need to be supported by clear evidence patterns, repeatable examples, and modest but credible proof language.
+
+The sections that follow are designed to preserve that proof in reusable forms.
 
 ## Primary Proof Types
 The strongest evidence for these offerings is likely to come from patterns such as:
@@ -1457,3 +1475,10 @@ When possible:
 ## Notes
 These proof blocks should stay modular and reusable. Over time, they can be tightened further based on which phrases resonate most in real conversations, proposals, and positioning materials.
 
+## Notes
+This file is a working service design document. Its purpose is to help clarify which offers are most viable, how they should be packaged, and how they can be supported with credible proof over time.
+
+It is not intended to lock every service into final public language. It should continue to evolve as positioning sharpens, market feedback develops, and real conversations reveal which offers are easiest to explain, most useful to clients, and most aligned with longer-term direction.
+
+## Update Guidance
+Update this file when service lanes become clearer, new package shapes emerge, pricing logic changes, market feedback sharpens positioning, or one or more offerings become active priorities.
