@@ -5,6 +5,7 @@
 **Last Updated:** 2026-04-06 
 
 **Related_Files:** 
+
 [Identity](./Identity.md) Captures durable identity-level context, including professional identity, strengths, values, current season, and future direction.
 
 [Roles and Responsibilities](./RolesandResponsibilities.md) Documents recurring role patterns, actual operating responsibilities, and the distinction between formal title and real contribution.
@@ -155,7 +156,7 @@ Examples for future supporting files:
 ## Single-Source-of-Truth Rules 
 The Personal Context Portfolio uses a modular documentation structure. Each core file has a defined primary purpose and should serve as the single source of truth for its subject area. Information should be maintained in its designated home first, with other files pointing back to that source rather than recreating it.
 
-1. Primary ownership by core file
+## 1. Primary ownership by core file
 README.md
 Owns repository orientation, file purpose summary, usage guidance, and navigation into the portfolio.
 
@@ -328,82 +329,6 @@ Operating principle
 - Archive for clarity, not for volume.
 - A file does not need to be archived just because it changes rarely. It should be archived when it stops supporting the active system.
 
-## Phase 2: Service Enablement
-
-Phase 2 translates the Personal Context Portfolio from a knowledge repository into a usable service system.
-
-The goal of this phase is to define how the portfolio supports actual service work by clarifying:
-
-- service offer structure
-- target audiences
-- problem/solution language
-- output and source-file mapping
-- missing assets
-- intake and routing workflow
-
-### Phase 2 Files
-
-#### `ServiceFramework.md`
-Defines the service-layer structure of the portfolio, including service categories, service offers, audiences, problem/solution language, and readiness definitions.
-
-#### `ServiceAssetMap.md`
-Maps service offers to outputs, source files, templates, dependencies, and missing assets required for delivery readiness.
-
-#### `ServiceIntakeWorkflow.md`
-Defines the intake, classification, fit-check, scoping, and routing flow for service-related requests.
-
-#### `ServiceReadinessChecklist.md`
-Provides a standard way to evaluate whether a service offer is ready, ready to pilot, partially ready, or not ready.
-
-### Recommended Read Order
-
-If you are reviewing Phase 2 for the first time, use this order:
-
-1. `ServiceFramework.md`
-2. `ServiceAssetMap.md`
-3. `ServiceIntakeWorkflow.md`
-4. `ServiceReadinessChecklist.md`
-
-### How Phase 2 Connects to the Core PCP Files
-
-Phase 2 builds on the existing PCP source files. These files continue to serve as the underlying knowledge base that informs service design and delivery.
-
-| Core File | Phase 2 Contribution |
-|---|---|
-| `Identity.md` | positioning inputs, role framing, credibility language |
-| `RolesandResponsibilities.md` | scope clarification, capability framing, delivery boundaries |
-| `GoalsAndPriorities.md` | service direction, strategic alignment, near-term priorities |
-| `CurrentProjects.md` | active examples, current build work, proof of relevance |
-| `ToolsAndSystems.md` | operational context, methods, systems references |
-| `CommunicationStyle.md` | tone, audience-facing language, writing consistency |
-| `PreferencesAndConstraints.md` | rules, guardrails, fit screening, delivery boundaries |
-| `DomainKnowledge.md` | domain expertise, niche terminology, structured context |
-| `DecisionLog.md` | rationale tracking, service evolution, readiness decisions |
-
-### Phase 2 Working Standard
-
-Phase 2 is functioning as intended when the repository can answer these questions clearly:
-
-- What services exist?
-- Who are they for?
-- What problems do they solve?
-- What outputs do they produce?
-- What source files support delivery?
-- What assets are still missing?
-- How should incoming requests be handled?
-
-### Phase 2 Definition of Done
-
-Phase 2 is complete when:
-
-- service offer structure is defined
-- target audiences are defined
-- problem/solution language is established
-- outputs are mapped to source files and templates
-- missing assets are identified
-- intake workflow is defined
-- service readiness can be assessed consistently
-
 
 
 ## Lightweight File Template
@@ -438,7 +363,82 @@ Anything important that does not fit neatly in the sections above.
 
 ## Services Section ->
 
-## Agency Service Clarity Sprint
+## Phase 2: Service Enablement
+
+Phase 2 translates the Personal Context Portfolio from a knowledge repository into a usable service system.
+
+The goal of this phase is to define how the portfolio supports actual service work by clarifying:
+
+- service offer structure
+- target audiences
+- problem/solution language
+- output and source-file mapping
+- missing assets
+- intake and routing workflow
+
+## Phase 2 Files
+
+## `ServiceFramework.md`
+Defines the service-layer structure of the portfolio, including service categories, service offers, audiences, problem/solution language, and readiness definitions.
+
+## `ServiceAssetMap.md`
+Maps service offers to outputs, source files, templates, dependencies, and missing assets required for delivery readiness.
+
+## `ServiceIntakeWorkflow.md`
+Defines the intake, classification, fit-check, scoping, and routing flow for service-related requests.
+
+## `ServiceReadinessChecklist.md`
+Provides a standard way to evaluate whether a service offer is ready, ready to pilot, partially ready, or not ready.
+
+## Recommended Read Order
+
+If you are reviewing Phase 2 for the first time, use this order:
+1. `ServiceFramework.md`
+2. `ServiceAssetMap.md`
+3. `ServiceIntakeWorkflow.md`
+4. `ServiceReadinessChecklist.md`
+
+## How Phase 2 Connects to the Core PCP Files
+
+Phase 2 builds on the existing PCP source files. These files continue to serve as the underlying knowledge base that informs service design and delivery.
+
+| Core File | Phase 2 Contribution |
+|---|---|
+| `Identity.md` | positioning inputs, role framing, credibility language |
+| `RolesandResponsibilities.md` | scope clarification, capability framing, delivery boundaries |
+| `GoalsAndPriorities.md` | service direction, strategic alignment, near-term priorities |
+| `CurrentProjects.md` | active examples, current build work, proof of relevance |
+| `ToolsAndSystems.md` | operational context, methods, systems references |
+| `CommunicationStyle.md` | tone, audience-facing language, writing consistency |
+| `PreferencesAndConstraints.md` | rules, guardrails, fit screening, delivery boundaries |
+| `DomainKnowledge.md` | domain expertise, niche terminology, structured context |
+| `DecisionLog.md` | rationale tracking, service evolution, readiness decisions |
+
+## Phase 2 Working Standard
+
+Phase 2 is functioning as intended when the repository can answer these questions clearly:
+
+- What services exist?
+- Who are they for?
+- What problems do they solve?
+- What outputs do they produce?
+- What source files support delivery?
+- What assets are still missing?
+- How should incoming requests be handled?
+
+## Phase 2 Definition of Done
+
+Phase 2 is complete when:
+- service offer structure is defined
+- target audiences are defined
+- problem/solution language is established
+- outputs are mapped to source files and templates
+- missing assets are identified
+- intake workflow is defined
+- service readiness can be assessed consistently
+
+## Service Offerings: 
+# Agency Service Clarity Sprint
 
 ## Make your agency easier to explain, delegate, and run.
 
