@@ -153,7 +153,7 @@ Examples for future supporting files:
 - `OperatingPrinciples.md`
 - `OpportunityPipeline.md`
 
-## Single-Source-of-Truth Rules 
+# Single-Source-of-Truth Rules 
 The Personal Context Portfolio uses a modular documentation structure. Each core file has a defined primary purpose and should serve as the single source of truth for its subject area. Information should be maintained in its designated home first, with other files pointing back to that source rather than recreating it.
 
 ## 1. Primary ownership by core file
