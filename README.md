@@ -409,8 +409,6 @@ Phase 2 is complete when:
 ## Lightweight File Template
 Use this lightweight template when creating new files in the repository.
 
-```md
-
 # File Title
 
 **Status:** Active
@@ -438,4 +436,55 @@ The repository foundation is established and the core starter files are in place
 ## Notes
 Anything important that does not fit neatly in the sections above.
 
+## Services Section ->
 
+## Agency Service Clarity Sprint
+
+## Make your agency easier to explain, delegate, and run.
+
+Founder-led agencies often grow through real client delivery before the business has a clean internal structure to support that growth.
+
+The work is real, but over time important parts of the service model can end up living in the founder’s head, in habits, or across scattered documents. That makes the business harder to explain, harder to delegate, and harder to run consistently.
+
+**Agency Service Clarity Sprint** is a focused service for founder-led marketing, creative, and digital agencies that need clearer service language, better internal structure, and more usable documentation.
+
+### Who this is for
+
+This service is designed for:
+- founder-led marketing agencies
+- creative agencies
+- digital agencies
+- small service firms with real delivery capability and lightweight internal systems
+
+### What it helps with
+
+- clarifying what the service actually is
+- defining who it is for
+- sharpening problem/solution language
+- identifying workflow and documentation gaps
+- creating a more usable foundation for handoff and repeatability
+
+## Typical outputs
+
+Depending on the need, the sprint may produce:
+- refined service summary
+- target audience definition
+- clarified problem/solution language
+- core positioning statement
+- simple workflow draft
+- documentation and structure gap notes
+- recommended next-step priorities
+
+## Common signs it may be time
+
+This service is a strong fit when:
+- the founder is still the main interpreter of how the business works
+- service language feels broad, outdated, or harder to explain than it should
+- onboarding support is more difficult than expected
+- delivery feels too custom every time
+- handoffs are inconsistent
+- the agency is preparing to grow, stabilize, or delegate more confidently
+
+## Core positioning statement
+
+**Agency Service Clarity Sprint helps founder-led marketing, creative, and digital agencies turn scattered service knowledge into clearer offers, better internal structure, and usable documentation so the business becomes easier to communicate, delegate, and run.**
